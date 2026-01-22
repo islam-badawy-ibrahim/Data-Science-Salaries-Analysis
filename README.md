@@ -22,3 +22,4 @@ Data Grouping: Efficiently aggregating data to find averages and trends.
 Statistical Analysis: Interpreting raw data to extract meaningful business insights.
 
 Data Cleaning: Filtering and preparing datasets for accurate processing.
+![Salary Analysis Chart](Data-Science-Salaries-Analysis.png)
