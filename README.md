@@ -1,5 +1,5 @@
-##Data Science Salaries Global Analysis
-#Project Overview
+Data Science Salaries Global Analysis
+Project Overview
 This project provides an exploratory data analysis (EDA) of global salary trends within the Data Science industry. It aims to uncover how experience levels and job titles influence compensation across different regions.
 
 #Technical Stack
@@ -9,14 +9,14 @@ Data Manipulation: Pandas
 
 Data Visualization: Matplotlib & Seaborn
 
-#Key Features
+Key Features
 Experience Correlation: Analyzes the salary gap between Entry (EN), Mid (MI), Senior (SE), and Executive (EX) levels.
 
 Job Title Insights: Identifies the highest-paying roles in the current tech market.
 
 Automated Visualization: Generates clear, professional charts to represent complex statistical data.
 
-#Core Concepts Demonstrated
+Core Concepts Demonstrated
 Data Grouping: Efficiently aggregating data to find averages and trends.
 
 Statistical Analysis: Interpreting raw data to extract meaningful business insights.
