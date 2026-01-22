@@ -2,7 +2,7 @@ Data Science Salaries Global Analysis
 Project Overview
 This project provides an exploratory data analysis (EDA) of global salary trends within the Data Science industry. It aims to uncover how experience levels and job titles influence compensation across different regions.
 
-#Technical Stack
+Technical Stack
 Language: Python
 
 Data Manipulation: Pandas
